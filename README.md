@@ -18,9 +18,9 @@ Ce dépôt GitHub regroupe plusieurs mini-projets simples et polyvalents conçus
 
 3. 🧮 **Création du navbar :** Créez une navbar dynamique.
 
-4. 🎲 ** Création d'un popup :** Créez un popup dynamique.
+4. 🎲 **Création d'un popup :** Créez un popup dynamique.
 
-5. ✍️ ** RGB Color :** Création d'une page dynamique qui change de couleur en fonction du rgb.
+5. ✍️ **RGB Color :** Création d'une page dynamique qui change de couleur en fonction du rgb.
 
 
 ## Comment Utiliser Ce Dépôt
