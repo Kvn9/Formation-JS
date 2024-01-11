@@ -25,6 +25,6 @@ Ce dépôt GitHub regroupe plusieurs mini-projets simples et polyvalents conçus
 
 ## Comment Utiliser Ce Dépôt
 
-Chaque mini-projet est contenu dans son propre répertoire avec des instructions détaillées sur la façon de le configurer et de le faire fonctionner. Consultez le README.md de chaque projet pour plus d'informations.
+Chaque mini-projet est contenu dans son propre répertoire avec des instructions détaillées sur la façon de le configurer et de le faire fonctionner.
 
 N'hésitez pas à explorer, à expérimenter et à personnaliser ces mini-projets selon vos besoins. Vous pouvez également contribuer en ajoutant de nouveaux mini-projets ou en améliorant les existants. Bon développement ! 🚀
